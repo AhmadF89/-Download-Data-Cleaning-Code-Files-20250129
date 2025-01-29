@@ -1,6 +1,6 @@
-## How to Use This Repository
+# How to Download and Use the Files from This Repository
 
-1. ## Step 1: Download the ZIP File
+1. Step 1: Download the ZIP File
    Click on **"[Download] Data Cleaning Code Files-20250129.zip"** in this repository.
    On the right-hand side, click on the **three dots (...)** next to the file name.
    Select **"Download"** and save the file to your computer.
